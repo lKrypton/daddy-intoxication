@@ -1,5 +1,7 @@
 # Daddy Intoxication
 
+![Daddy Intoxication](https://raw.githubusercontent.com/lKrypton/daddy-intoxication/main/.github/banner.jpg)
+
 A free, server-authoritative intoxication system for FiveM. Players feel the alcohol through gameplay — visuals, movement, driving, voice, nausea and blackouts — with no UI. Other resources can read the state through state bags, exports and events.
 
 ## Features
