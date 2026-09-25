@@ -36,3 +36,26 @@ dependencies {
     '/onesync',
     'ox_lib',
 }
+
+-- Free and open source: every file stays readable when uploaded to the Cfx portal.
+escrow_ignore {
+    'bridge/client.lua',
+    'bridge/inventory.lua',
+    'bridge/server.lua',
+    'bridge/shared.lua',
+    'CHANGELOG.md',
+    'client/animations.lua',
+    'client/audio.lua',
+    'client/driving.lua',
+    'client/effects.lua',
+    'client/main.lua',
+    'config.lua',
+    'examples/breathalyzer.lua',
+    'LICENSE',
+    'locales/en.lua',
+    'locales/tr.lua',
+    'README.md',
+    'server/main.lua',
+    'server/persistence.lua',
+    'shared/utils.lua',
+}
